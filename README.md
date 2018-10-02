@@ -11,3 +11,9 @@ This application requires that the first row in the Sheets file contains the hea
 4. Create a google sheets file, and copy the url id of the file, replace that in the appropriate constant variable in the SheetsQuickStart.java file.
 5. Deploy application on servlet and test on localhost.
 
+This application uses:
+..* Apache tomcat
+..* Java backend
+..* Google Sheets API
+..* HTML/CSS front end 
+
