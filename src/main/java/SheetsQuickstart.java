@@ -33,7 +33,7 @@ public class SheetsQuickstart {
     private static final String APPLICATION_NAME =
         "Google Sheets API Java Quickstart";
     
-    private static String spreadsheetId = "1IHCQZPmgwdeQar1IBZC_3_1rzSc2ViAglN7yGnrB8DU";
+    private static String spreadsheetId = "PASTE SPREADSHEET ID HERE";
 
     
     /** Directory to store user credentials for this application. */
